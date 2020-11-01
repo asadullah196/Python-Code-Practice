@@ -1,6 +1,7 @@
 # Random is a math libery for generating random number
 import random
 
+#Taking userName as input here
 userName = input("Candidate Name: ")
 userFatherName = input("Father's Name: ")
 userMotherName = input("Mother's Name: ")
