@@ -1,3 +1,4 @@
+# Random is a math libery for generating random number
 import random
 
 userName = input("Candidate Name: ")
