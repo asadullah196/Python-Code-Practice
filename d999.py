@@ -3,6 +3,8 @@ import random
 
 #Taking userName as input here
 userName = input("Candidate Name: ")
+
+#Taking userFatherName as input here
 userFatherName = input("Father's Name: ")
 userMotherName = input("Mother's Name: ")
 dateOfBirth = input("Birth Date (DD-MM-YYYY): ")
